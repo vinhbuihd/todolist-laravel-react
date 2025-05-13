@@ -1,3 +1,5 @@
+Todolist using Laravel + Inertia + Reactjs
+
 Run project
 
 server
